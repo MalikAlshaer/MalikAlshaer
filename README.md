@@ -4,7 +4,7 @@ Educated in a variety of different programming languages, such as C, C++, python
 
 Some experience with teaching. Specifically teaching programming, Linux, and Arduino.
 
-I am currently learning more about system level development and low level languages such as x86 assembly.
+Currently learning more about system level development and low level languages such as x86 assembly.
 
 I am also looking for a work opportunity, so if you have an open position, please do not hesitate to contact me.
 
